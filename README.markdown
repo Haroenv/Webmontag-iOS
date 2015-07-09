@@ -39,4 +39,4 @@ Die Webmontag-App ist im App Store für das iPhone, das iPad und den iPod touch 
 
 ![News](screenshots/News.png) ![Artikel](screenshots/Artikel.png) ![Videos](screenshots/Videos.png) ![Jobs](screenshots/Jobs.png) ![Kategorien](screenshots/Kategorien.png)
 
-[<img src="app_store_badge.png" alt="Laden im App Store">](http://AppStore.com/Webmontag)
+[<img src="app_store_badge.svg" alt="Laden im App Store">](http://AppStore.com/Webmontag)
