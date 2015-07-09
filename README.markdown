@@ -35,6 +35,6 @@ In einigen Dateien werden Frameworks importiert, die sich in Xcode zum Projekt h
 Mit der Webmontag-App hast Du alle News und Videos des Webmontags in Halle (Saale) und aktuelle Job-Angebote in der Region an einem Ort.
 Lies Dich durch alle Artikel zu den Themen der letzten Webmontage und schaue Dir die entsprechenden Videos an. Informiere Dich zu attraktiven Job-Angeboten im Bereich der Web-Entwicklung in der Umgebung um Halle.
 
-Die Webmontag-App ist im App Store für das iPhone, das iPad und den iPod touch kostenlos verfügbar. Sie erfordert mindestens iOS [6.
+Die Webmontag-App ist im App Store für das iPhone, das iPad und den iPod touch kostenlos verfügbar. Sie erfordert mindestens iOS 6.
 
 [Laden im App Store](http://AppStore.com/Webmontag)
