@@ -37,6 +37,4 @@ Lies Dich durch alle Artikel zu den Themen der letzten Webmontage und schaue Dir
 
 Die Webmontag-App ist im App Store für das iPhone, das iPad und den iPod touch kostenlos verfügbar. Sie erfordert mindestens iOS [6.
 
-![News](screenshots/News.png) ![Artikel](screenshots/Artikel.png) ![Videos](screenshots/Videos.png) ![Jobs](screenshots/Jobs.png) ![Kategorien](screenshots/Kategorien.png)
-
-[<img src="app_store_badge.svg" alt="Laden im App Store">](http://AppStore.com/Webmontag)
+[Laden im App Store](http://AppStore.com/Webmontag)
